@@ -1,5 +1,5 @@
 # Movie-list
-A simple web application for movie fanatic
+A simple web application for movie list.
 
 ## Features
 - listing movies from movie api
